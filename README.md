@@ -54,3 +54,8 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 
 Remember to replace placeholders in the README template with actual information about your project. Providing clear instructions, prerequisites, and usage guidelines will help users understand and interact with your Kanban board application effectively.
+
+URL Of Project: http://localhost:63342/App/index.html?_ijt=gkf2ulsuf97tnhr4i9jrl0267o&_ij_reload=RELOAD_ON_SAVE
+Snapshot
+![image](https://github.com/AdibaZaidi/TaskManagementApp/assets/96797209/074f653c-2a8c-4395-913d-e2d13ac6861a)
+
